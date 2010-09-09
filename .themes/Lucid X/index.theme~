@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Name=Karmic X
+Type=X-GNOME-Metatheme
+Comment=
+
+Name[de_DE]=Karmic X
+
+[X-GNOME-Metatheme]
+GtkTheme=Karmic X
+MetacityTheme=Karmic X
+IconTheme=Humanity-Dark
+

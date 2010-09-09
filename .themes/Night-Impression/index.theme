@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Night Impression
+Comment=Ubuntu community theme
+
+[X-GNOME-Metatheme]
+GtkTheme=Night-Impression
+IconTheme=Humanity-Dark
+MetacityTheme=Night-Impression
+CursorTheme=default
+ButtonLayout=close,minimize,maximize:

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Sorbet
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Sorbet
+MetacityTheme=Sorbet
+IconTheme=Breathe
+GtkColorScheme=fg_color:#101010,bg_color:#EFEFEF,base_color:#fff,text_color:#1A1A1A,selected_bg_color:#E66924,selected_fg_color:#FFFFFF,tooltip_bg_color:#D6DCE4,tooltip_fg_color:#222222,theme_color_04:#a9a49c,theme_color_26:#303334,theme_color_27:#706b64
+CursorTheme=DMZ-White
+CursorSize=18
+NotificationTheme=ubuntu
