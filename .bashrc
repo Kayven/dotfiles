@@ -81,6 +81,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias ls='ls -alh --color=auto'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
