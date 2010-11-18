@@ -796,7 +796,7 @@ widget_class "*<GtkSeparator>*" 	style:highest "equinox-wide" # Other
 include "Apps/eog.rc"
 include "Apps/midori.rc"
 include "Apps/nautilus.rc"
-include "Apps/panel.rc"
+include "Apps/panel-dark.rc"
 include "Apps/totem.rc"
-#include "terminal.rc"
+include "terminal.rc"
 

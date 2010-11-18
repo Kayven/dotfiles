@@ -36,3 +36,7 @@ set ts=4
 set sw=4
 set autoindent
 set smartindent
+set background=dark
+colorscheme ir_black
+syntax on
+set guifont=Monaco:h12
