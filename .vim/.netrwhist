@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/mk/Projects/djcode/mokodev/template'
+let g:netrw_dirhist_2='/etc/nginx/sites-available'
+let g:netrw_dirhist_3='/etc/nginx/sites-enabled'
+let g:netrw_dirhist_4='/home/mk/public_html/kongeaaensdambrug.dk/kdb/template'
+let g:netrw_dirhist_5='/home/mk/Projects/djcode/mokodev/cvDownloads'
+let g:netrw_dirhist_6='/home/mk/.byobu'
+let g:netrw_dirhist_7='/home/mk/.fontconfig'
